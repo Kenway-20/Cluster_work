@@ -29,4 +29,4 @@ Run the main.cpp
 # other
 If you want more information about this work.
 
-Please visit [my blog](kenway-20.com)(ps:It's written in Chinese).
+Please visit my blog kenway-20.com (ps:It's written in Chinese).
