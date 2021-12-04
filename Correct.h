@@ -26,7 +26,7 @@ public:
             if(data_cluster[i] == -1) continue;
             cluster_data[data_cluster[i]].push_back(i);
         }
-        //cout << "cluster_data.size = " << cluster_data.size() << endl;
+
         this->cluster_data_c = cluster_data;
     }
 
@@ -44,7 +44,7 @@ public:
             if(is_correct) numerator++;
             denominator++;
         }
-        cout <<"one: " << numerator << '/' << denominator << endl;
+        //cout <<"one: " << numerator << '/' << denominator << endl;
         return numerator / denominator;
     }
     double get_total(){
@@ -76,7 +76,7 @@ public:
             if(is_total) numerator++;
             denominator++;
         }
-        cout <<"total: " << numerator << '/' << denominator << endl;
+        //cout <<"total: " << numerator << '/' << denominator << endl;
         return numerator / denominator;
     }
 

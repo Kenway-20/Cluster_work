@@ -33,11 +33,11 @@
 #define         TRUE            1
 #define         FALSE           0
 
-const int    NUMPATTERNS1   =  5000; //658923  // 数据点的个数
-const int       SIZEVECTOR1   =    128; //100     // 数据集的维数
-const int        NUMCLUSTERS1   =  109; //263     // 类的个数
-const int       NUMPRE1      =    3 ; //3   // 代表点个数
-const int     SHRINK1      =    1 ; //1   // 收缩率
+const int    NUMPATTERNS1   =  5000; //658923  数据点的个数
+const int       SIZEVECTOR1   =    128; //   数据集的维数
+const int        NUMCLUSTERS1   =  109; //263     类的个数
+const int       NUMPRE1      =    3 ; //3   代表点个数
+const int     SHRINK1      =    1 ; //1   收缩率
 
 
 
